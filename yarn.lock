@@ -4331,6 +4331,13 @@
   resolved "https://logrhythm.jfrog.io/logrhythm/api/npm/npm-virtual/@types/uuid/-/uuid-3.4.7.tgz#51d42247473bc00e38cc8dfaf70d936842a36c03"
   integrity sha1-UdQiR0c7wA44zI369w2TaEKjbAM=
 
+"@types/uuid@^3.4.5":
+  version "3.4.5"
+  resolved "https://logrhythm.jfrog.io/logrhythm/api/npm/npm-virtual/@types/uuid/-/uuid-3.4.5.tgz#d4dc10785b497a1474eae0ba7f0cb09c0ddfd6eb"
+  integrity sha1-1NwQeFtJehR06uC6fwywnA3f1us=
+  dependencies:
+    "@types/node" "*"
+
 "@types/valid-url@1.0.2":
   version "1.0.2"
   resolved "https://logrhythm.jfrog.io/logrhythm/api/npm/npm-virtual/@types/valid-url/-/valid-url-1.0.2.tgz#60fa435ce24bfd5ba107b8d2a80796aeaf3a8f45"
