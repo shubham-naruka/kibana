@@ -57,6 +57,7 @@ import './management';
 import './doc';
 import './dev_tools';
 import './context';
+import '../../../../netmon/directives';
 import 'ui/vislib';
 import 'ui/agg_response';
 import 'ui/agg_types';
